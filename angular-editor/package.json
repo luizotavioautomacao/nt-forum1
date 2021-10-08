@@ -1,6 +1,6 @@
 {
-  "name": "nt-forum",
-  "version": "1.0.1",
+  "name": "nt-forum1",
+  "version": "1.0.0",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
